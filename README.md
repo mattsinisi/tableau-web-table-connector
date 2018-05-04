@@ -1,1 +1,0 @@
-# Starschema Tableau Web Table Connector (WDC) Toolkit / ConnectorBase [![Build Status]
